@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">projectPdm</string>
+    <string name="welcome">Bem Vindo!</string>
+    <string name="welcome2">Olá!</string>
+    <string name="enter">Entrar</string>
+    <string name="spinner_name">Categoria</string>
+    <string-array name="spinner_add">
+        <item>Mercearia</item>
+        <item>Lacticinios</item>
+        <item>Peixaria</item>
+        <item>Talho</item>
+        <item>Frutas e Legumes</item>
+        <item>Padaria</item>
+        <item>Bebidas</item>
+        <item>Limpeza</item>
+    </string-array>
+    <string name="ver">Ver</string>
+    <string name="add">Adicionar Produtos</string>
+    <string name="price">Preço por Produto(€)</string>
+    <string name="quanti">Quantidade de Produtos</string>
+    <string name="nome">Nome Produto</string>
+    <string name="nomelista">Nome Lista</string>
+    <string name="nome2">Name</string>
+    <string name="price2">price</string>
+    <string name="data">data</string>
+    <string name="data1">Data1</string>
+    <string name="data2">Data2</string>
+    <string name="name">Name</string>
+
+</resources>
